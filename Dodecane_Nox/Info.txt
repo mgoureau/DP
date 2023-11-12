@@ -1,0 +1,23 @@
+
+#==========================================================================================# 
+ #              #
+ #    Optimized reaction mechanism rate rules for ignition of normal alkanes    #   
+ #              #
+ #               Liming Cai(a), Heinz Pitsch(a), Samah Y. Mohamed(b),      #    
+ #               Venkat Raman(c), John Bugler(d), Henry Curran(d), S. Mani Sarathy(b)       # 
+ #              #
+ #             (a) Institute for Combustion Technology,                # 
+ #   RWTH Aachen University, 52056 Aachen, Germany         #     
+ #              #
+ #          (b) Clean Combustion Research Center, King Abdullah University of Science       # 
+ #        and Technology, Thuwal 23955-6900, Saudi Arabia                      # 
+ #              #
+ #       (c) Department of Aerospace Engineering,         #     
+ #    University of Michigan, Ann Arbor 48109, USA        #     
+ #              #
+ #                 (d) Combustion Chemistry Centre,         #     
+ #     National University of Ireland, Galway, Ireland        # 
+ #              #
+ #     lcai@itv.rwth-aachen.de          #   
+ #              #
+ #==========================================================================================# 
